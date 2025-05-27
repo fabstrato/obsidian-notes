@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "omnisearch",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "code-styler",
+  "make-md"
 ]
