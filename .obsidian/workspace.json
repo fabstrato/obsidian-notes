@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/default-problemlist/2 - Add Two Numbers.md",
+                "file": "Leetcode/default-problemlist/3 - Longest Substring Without Repeating Characters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Add Two Numbers"
+              "title": "3 - Longest Substring Without Repeating Characters"
             }
           },
           {
@@ -87,7 +87,7 @@
             }
           },
           {
-            "id": "3841a57c26c6979d",
+            "id": "8964f3a50a473aec",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/default-problemlist/2 - Add Two Numbers.md",
+                "file": "Leetcode/default-problemlist/3 - Longest Substring Without Repeating Characters.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2 - Add Two Numbers"
+              "title": "Outline of 3 - Longest Substring Without Repeating Characters"
             }
           },
           {
@@ -205,11 +205,12 @@
   },
   "active": "ea3115c4565f90ab",
   "lastOpenFiles": [
+    "Leetcode/default-problemlist/2 - Add Two Numbers.md",
+    "Leetcode/default-problemlist/3 - Longest Substring Without Repeating Characters.md",
     "Vault.md",
     "img/img.md",
     "img",
     "Leetcode/default-problemlist/1 - Two Sum.md",
-    "Leetcode/default-problemlist/2 - Add Two Numbers.md",
     "img/Pasted image 20250528163134.png",
     "Leetcode/default-problemlist/default-problemlist.md",
     "Leetcode/Untitled.md",
